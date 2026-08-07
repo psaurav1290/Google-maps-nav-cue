@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nav Cue Detector</string>
+    <string name="accessibility_description">Reads visible navigation text from Google Maps to detect turn-by-turn cues. No network access is used.</string>
+</resources>
